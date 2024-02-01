@@ -13,9 +13,9 @@ SQLite database storage for book data.
 # Project Structure
 The project structure is as follows:
 
-app.py: Main Flask application file containing the routes and database setup.
-templates/: Directory containing HTML templates for rendering pages.
-books.html: Template for displaying the list of books.
-add_book.html: Template for adding a new book.
-books.db: SQLite database file storing book data.
-README.md: Documentation file.
+# app.py: Main Flask application file containing the routes and database setup.
+# templates/: Directory containing HTML templates for rendering pages.
+# books.html: Template for displaying the list of books.
+# add_book.html: Template for adding a new book.
+# books.db: SQLite database file storing book data.
+# README.md: Documentation file.
